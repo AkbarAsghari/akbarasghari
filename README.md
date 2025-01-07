@@ -6,3 +6,4 @@
 
 💬 Ask me about C#, ASP.Net , Blazor
 
+<img src="https://raw.githubusercontent.com/akbarasghari/akbarasghari/output/snake.svg" alt="Snake animation" />
